@@ -50,7 +50,7 @@ python mixture_DIDS_single_domain.py --pretrained meta-llama/Llama-3.1-8B --tota
 ```
 
 ## Dataset Information
-The Tulu-3 dataset includes 18 different data sources:
+The Tulu-3 dataset includes 18 different data sources (https://huggingface.co/datasets/allenai/tulu-3-sft-mixture):
 - AI2 Adapt Dev collections (OASST1, FLAN v2, WildChat, Math, Code)
 - Persona-based datasets
 - Special task datasets (SciFi, Table GPT, AYA)
