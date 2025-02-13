@@ -1,0 +1,282 @@
+{
+    "random_10000k_10round": {
+        "file_name": "json/random_10000k_10round.jsonl",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "random_100k_10round": {
+        "file_name": "json/random_100k_10round.jsonl",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "random_50k_10round": {
+        "file_name": "json/random_50k_10round.jsonl",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_50k_20round": {
+        "file_name": "json/mixture_DGA_50k_20round_0.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_100k_20round": {
+        "file_name": "json/mixture_DGA_100k_20round_1.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_100k_50round": {
+        "file_name": "json/mixture_DGA_100k_50round_47.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_50k_50round": {
+        "file_name": "json/mixture_DGA_50k_50round_25.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_mean_50k_50round": {
+        "file_name": "json/mixture_DGA_mean_50k_50round_4.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_mean_100k_25round_256clusters": {
+        "file_name": "json/mixture_DGA_mean_100k_25round_256clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_gradient_cluster_100k_25round_256clusters": {
+        "file_name": "json/mixture_DGA_gradient_cluster_100k_25round_256clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_multi_task_100k_25round_256clusters": {
+        "file_name": "json/mixture_DGA_multi_task_100k_25round_256clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_gradient_cluster_multi_task_100k_25round_256clusters": {
+        "file_name": "json/mixture_DGA_gradient_cluster_multi_task_100k_25round_256clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "mixture_DGA_gradient_cluster_multi_task_JL_100k_25round_1024clusters": {
+        "file_name": "json/mixture_DGA_gradient_cluster_multi_task_JL_100k_25round_1024clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "DIDS_100k_25round_512clusters": {
+        "file_name": "json/DIDS_100k_25round_512clusters_8.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "DIDS_100k_25round_32clusters": {
+        "file_name": "json/DIDS_100k_25round_32clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "DIDS_100k_25round_64clusters": {
+        "file_name": "json/DIDS_100k_25round_64clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "DIDS_domain_impact_100k_25round_32clusters": {
+        "file_name": "json/DIDS_domain_impact_100k_25round_32clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "DIDS_32_100k_25round_32clusters": {
+        "file_name": "json/DIDS_32_100k_25round_32clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "DIDS_domain_impact_100k_25round_64clusters": {
+        "file_name": "json/DIDS_domain_impact_100k_25round_64clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    },
+    "DIDS_domain_impact_100k_25round_256clusters": {
+        "file_name": "json/DIDS_domain_impact_100k_25round_256clusters_24.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations"
+        },
+        "tags": {
+            "role_tag": "role",
+            "content_tag": "content",
+            "user_tag": "user",
+            "assistant_tag": "assistant",
+            "system_tag": "system"
+        }
+    }
+}

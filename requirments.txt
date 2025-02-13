@@ -1,0 +1,10 @@
+torch
+transformers
+scipy
+tqdm
+numpy
+matplotlib
+seaborn
+pandas
+lm-eval
+llamafactory
