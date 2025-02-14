@@ -16,6 +16,8 @@ python eval.py --pretrained ./data/models/random_100k_10round_meta-llama-Llama-2
 ```
 
 ## Baseline Training
+The baseline code for doremi and doge is available in the 'baseline-doremi' and 'baseline-doge' folders, respectively.
+
 ### Random Training
 ```bash
 # Train and test with 10k samples
